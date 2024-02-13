@@ -1,5 +1,5 @@
 # Print Page Templates for WordPress
-Print Page Templates is a powerful and user-friendly WordPress plugin designed to enhance the printing capabilities of your WordPress site.
+Print Page Templates by [ij.start-canon.com](https://ij.start-canon.com) is a powerful and user-friendly WordPress plugin designed to enhance the printing capabilities of your WordPress site.
 Welcome to Print Page Templates, a WordPress plugin designed to transform how your web pages are presented in print form. This plugin allows you to easily create, customize, and apply templates specifically for printing, ensuring that your printed content always looks professional and is tailored to your specific needs.
 
 ## Features
